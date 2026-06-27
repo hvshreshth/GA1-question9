@@ -1,0 +1,8 @@
+name: Question 10 - GA1 - TDS
+on: [push]
+jobs:
+  question10:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 24f1000318@ds.study.iitm.ac.in
+        run: echo "Hello, world!"
